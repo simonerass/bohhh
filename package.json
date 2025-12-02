@@ -1,6 +1,7 @@
 {
   "name": "vercel-expenses-api",
   "version": "1.0.0",
+  "type": "module"
   "description": "Serverless API for managing expenses",
   "main": "api/expenses.js",
   "scripts": {
